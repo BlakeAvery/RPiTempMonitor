@@ -1,0 +1,3 @@
+C:/Users/Blake/CLionProjects/RPiTempMonitor/cmake-build-debug/CMakeFiles/RPiTempMonitor.dir
+C:/Users/Blake/CLionProjects/RPiTempMonitor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Blake/CLionProjects/RPiTempMonitor/cmake-build-debug/CMakeFiles/rebuild_cache.dir

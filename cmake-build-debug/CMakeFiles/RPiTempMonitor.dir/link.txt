@@ -1,0 +1,3 @@
+D:\CLion\bin\cmake\win\bin\cmake.exe -E remove -f CMakeFiles\RPiTempMonitor.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\RPiTempMonitor.dir/objects.a @CMakeFiles\RPiTempMonitor.dir\objects1.rsp
+C:\MinGW\bin\gcc.exe -g   -Wl,--whole-archive CMakeFiles\RPiTempMonitor.dir/objects.a -Wl,--no-whole-archive  -o RPiTempMonitor.exe -Wl,--out-implib,libRPiTempMonitor.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\RPiTempMonitor.dir\linklibs.rsp
